@@ -1,1 +1,4 @@
 touch up_to_data
+git add
+git commit -m
+git push
